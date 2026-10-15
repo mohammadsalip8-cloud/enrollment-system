@@ -1,30 +1,19 @@
-# YBVC Enrollment System - Pagadian City
+# 🎓 Enrollment System | Enterprise Edition
 
-Enterprise-grade enrollment system built for Yllana Bay View College, Pagadian City.
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
 
-## 🚀 Features
-- Student Registration & Profiling
-- Subject Loading & Enrollment
-- Admin Dashboard with Analytics
-- Course & Section Management
-- Assessment & Payment Tracking
-- Reports Generation
+> Enterprise-grade Enrollment & Management System built for Yllana Bay View College, Pagadian City. Digitizing student registration, subject loading, and admin operations.
 
-## 💻 Tech Stack
-PHP | MySQL | HTML5 | CSS3 | JavaScript | Bootstrap 5 | Admin Dashboard
+### 🚀 Live System Modules
+- **Student Registration & Profiling** - Complete CRUD with validation
+- **Admin Dashboard** - Analytics, student count, payment tracking
+- **Subject Loading System** - Course & section management
+- **Payment Module** - Automated billing (Inspired by P200 Water/Light System)
+- **QR Security Layer** - `scan.php` & `scan_process.php` for secure entry
+- **Real-time Logs** - `load_logs.php` for IN/OUT monitoring
+- **Student Portal** - `student_portal.php` dedicated access
 
-## 📊 Project Info
-Built by: Salip Mohammad
-School: YBVC 2nd Year BSIT
-Location: Pagadian City, Zamboanga del Sur
-Status: Enterprise Ready
-
-## 🎯 Purpose
-To digitize and automate the enrollment process of YBVC, reducing manual work and improving student experience.
-
-## 🔗 Links
-Portfolio: https://mohammadsalip8-cloud.github.io/
-Main Project: WE CODE Enterprise v2.0
-
----
-Proudly built in Pagadian City - Enterprise Grade System
+### 💻 Tech Stack - Enterprise Ready
